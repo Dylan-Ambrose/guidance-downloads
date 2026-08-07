@@ -1,11 +1,5 @@
 {
-  "apps": [
-    {
-      "id": "listic",
-      "name": "Listic",
-      "description": "A chat-bubble style to-do list with per-task timers.",
-      "download_url": "https://github.com/Dylan-Ambrose/listic-downloads/releases/download/v1.0.2/Listic-Setup.exe",
-      "install_check_path": "%LOCALAPPDATA%\\Programs\\Listic\\Listic.exe"
-    }
+  "manifests": [
+    "https://raw.githubusercontent.com/Dylan-Ambrose/listic-downloads/main/manifest.json"
   ]
 }
