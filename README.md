@@ -1,38 +1,41 @@
-# Guidance — Downloads
+# Guidance, Downloads
 
 This repo hosts downloadable builds of Guidance, the launcher hub that ties
-Listic and future apps together, plus `catalog.json` — the list of apps
-Guidance itself knows how to offer a download for.
+together the other desktop apps.
 
-**No source code lives here** — this repo exists solely to distribute
-release binaries and the catalog. Both Guidance's and Listic's source are
-developed privately.
+**No source code lives here**, this repo exists solely to distribute
+release binaries. Guidance's source is developed privately.
 
 ## Get Guidance
 
 See the [Releases](../../releases) page for the latest `Guidance-Setup.exe`.
-It installs per-user — no admin rights needed, no UAC prompt.
+It installs per-user, no admin rights needed, no UAC prompt.
 
-## catalog.json
+## How the app catalogue works
 
-Guidance fetches this file at startup to show apps you haven't installed
-yet, each with a Download button. Adding an app here is all it takes for
-it to show up in Guidance — no update to Guidance itself required.
+Guidance no longer reads a hand-maintained list. On startup it lists every
+public repo under this account and checks each one whose name ends in
+`-downloads` (skipping this repo itself) for a `manifest.json` at its root.
+Publishing that file is the only step needed for an app to show up in
+Guidance with a Download card, nothing here or in Guidance itself needs to
+change.
 
 ```json
 {
-  "apps": [
-    {
-      "id": "listic",
-      "name": "Listic",
-      "description": "One-line description shown on the download card.",
-      "download_url": "https://github.com/<owner>/<repo>/releases/download/<tag>/<Installer>.exe",
-      "install_check_path": "%LOCALAPPDATA%\\Programs\\<AppName>\\<AppName>.exe"
-    }
-  ]
+  "id": "example",
+  "name": "Example",
+  "version": "1.0.0",
+  "tag": "Utility",
+  "description": "One-line description shown on the download card.",
+  "download_url": "https://github.com/<owner>/<repo>/releases/download/<tag>/<Installer>.exe",
+  "install_check_path": "%LOCALAPPDATA%\\Programs\\<AppName>\\<AppName>.exe",
+  "icon_url": "https://raw.githubusercontent.com/<owner>/<repo>/main/icon.png",
+  "previous_names": []
 }
 ```
 
 `install_check_path` should match wherever that app's own Inno Setup
-installer actually installs it — Guidance checks it directly rather than
-querying the Windows registry.
+installer actually installs it, Guidance checks it directly rather than
+querying the Windows registry. A manifest with no `download_url` is read
+but never offered as a Download card (this is how Blindspot's retired
+web-only listing stays out of the catalogue without deleting its repo).
