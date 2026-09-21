@@ -1,6 +1,11 @@
 {
   "id": "guidance",
   "name": "Guidance",
-  "version": "2.41.4",
-  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.41.4/Guidance-Setup.exe"
+  "version": "2.42.0",
+  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.42.0/Guidance-Setup.exe",
+  "notes": [
+    "A Today tab: what is waiting in each of your apps, the moment Guidance opens",
+    "Update all, and Keep apps updated in Settings",
+    "Roll back an update for seven days if it misbehaves"
+  ]
 }
