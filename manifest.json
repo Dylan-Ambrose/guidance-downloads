@@ -1,12 +1,9 @@
 {
   "id": "guidance",
   "name": "Guidance",
-  "version": "2.43.0",
-  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.43.0/Guidance-Setup.exe",
+  "version": "2.44.0",
+  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.44.0/Guidance-Setup.exe",
   "notes": [
-    "A new look: a title bar with search (Ctrl+K) and an app rail that launches any app in one click",
-    "Collapse the sidebar with the button or Ctrl+\\",
-    "Settings in pages, and a Work tag",
-    "Fixes a start-up that could hang on the splash"
+    "Guidance is indigo: the same accent as Slate and Ergo, so the apps read as one suite"
   ]
 }
