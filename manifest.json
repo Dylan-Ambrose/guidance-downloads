@@ -1,9 +1,9 @@
 {
   "id": "guidance",
   "name": "Guidance",
-  "version": "2.44.0",
-  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.44.0/Guidance-Setup.exe",
+  "version": "2.44.1",
+  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.44.1/Guidance-Setup.exe",
   "notes": [
-    "Guidance is indigo: the same accent as Slate and Ergo, so the apps read as one suite"
+    "Saves that happen at the same moment no longer clash, so every change lands"
   ]
 }
