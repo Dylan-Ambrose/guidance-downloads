@@ -1,10 +1,10 @@
 {
   "id": "guidance",
   "name": "Guidance",
-  "version": "2.46.0",
-  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.46.0/Guidance-Setup.exe",
+  "version": "2.47.0",
+  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.47.0/Guidance-Setup.exe",
   "notes": [
-    "One sidebar: your apps sit under the pages, and launch in one click",
-    "Today and your library are one page, and every Today card is the same height"
+    "A new login page, with Google and GitHub sign-in",
+    "One account across every Averic app, so signing in here signs you in everywhere"
   ]
 }
