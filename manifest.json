@@ -1,9 +1,9 @@
 {
   "id": "guidance",
   "name": "Guidance",
-  "version": "2.44.2",
-  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.44.2/Guidance-Setup.exe",
+  "version": "2.45.0",
+  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.45.0/Guidance-Setup.exe",
   "notes": [
-    "Opening the app while it is already running now brings it forward instead of starting a second copy"
+    "Choose your accent in Settings: Discovery, the indigo, or Averic, the logo's own cream"
   ]
 }
