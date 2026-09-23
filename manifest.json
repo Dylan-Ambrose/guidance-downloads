@@ -1,9 +1,9 @@
 {
   "id": "guidance",
   "name": "Guidance",
-  "version": "2.44.1",
-  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.44.1/Guidance-Setup.exe",
+  "version": "2.44.2",
+  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.44.2/Guidance-Setup.exe",
   "notes": [
-    "Saves that happen at the same moment no longer clash, so every change lands"
+    "Opening the app while it is already running now brings it forward instead of starting a second copy"
   ]
 }
