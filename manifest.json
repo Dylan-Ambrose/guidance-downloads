@@ -1,10 +1,9 @@
 {
   "id": "guidance",
   "name": "Guidance",
-  "version": "2.48.1",
-  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.48.1/Guidance-Setup.exe",
+  "version": "2.49.0",
+  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.49.0/Guidance-Setup.exe",
   "notes": [
-    "The sign-in page is a quarter larger and easier to read",
-    "The welcome tour shows nothing in the title bar but the window buttons"
+    "A new look for Guidance: its mark is now a bird and a pointer, in the taskbar, the title bar and the sign-in page"
   ]
 }
