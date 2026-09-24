@@ -1,10 +1,9 @@
 {
   "id": "guidance",
   "name": "Guidance",
-  "version": "2.49.1",
-  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.49.1/Guidance-Setup.exe",
+  "version": "2.49.2",
+  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.49.2/Guidance-Setup.exe",
   "notes": [
-    "A new picture on the sign-in page: a swift in flight",
-    "If you switched on anonymous usage sharing, it now actually reaches us. Off unless you turn it on"
+    "If you switched on anonymous crash reports, a crash now actually reaches us so it can be fixed. Off unless you turn it on"
   ]
 }
