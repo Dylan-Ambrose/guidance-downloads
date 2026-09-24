@@ -1,11 +1,10 @@
 {
   "id": "guidance",
   "name": "Guidance",
-  "version": "2.47.1",
-  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.47.1/Guidance-Setup.exe",
+  "version": "2.48.0",
+  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.48.0/Guidance-Setup.exe",
   "notes": [
-    "A new login page, with Google and GitHub sign-in",
-    "One account across every Averic app, so signing in here signs you in everywhere",
-    "While it is open, the login page is the only thing on screen"
+    "Share anonymous usage and crash reports: a switch in Settings, off unless you turn it on",
+    "Signing out of Guidance no longer signs you out of Mize as well"
   ]
 }
