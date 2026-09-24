@@ -1,10 +1,10 @@
 {
   "id": "guidance",
   "name": "Guidance",
-  "version": "2.50.0",
-  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.50.0/Guidance-Setup.exe",
+  "version": "2.50.1",
+  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.50.1/Guidance-Setup.exe",
   "notes": [
-    "A slimmer sidebar, only as wide as its longest row",
-    "Account is now in Settings, and every dropdown opens Averic's own list"
+    "After rolling an app back, its newer version shows on the card again, so you can go forward with one click",
+    "Update all and Keep apps updated still leave a version you rolled back from alone"
   ]
 }
