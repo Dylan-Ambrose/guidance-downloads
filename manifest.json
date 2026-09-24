@@ -1,9 +1,11 @@
 {
   "id": "guidance",
   "name": "Guidance",
-  "version": "2.49.2",
-  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.49.2/Guidance-Setup.exe",
+  "version": "2.49.3",
+  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.49.3/Guidance-Setup.exe",
   "notes": [
-    "If you switched on anonymous crash reports, a crash now actually reaches us so it can be fixed. Off unless you turn it on"
+    "Signing in with Google or GitHub can be cancelled, so closing the browser no longer leaves the page stuck",
+    "Remember me: untick it and closing the app signs you out; ticked, your login is offered next time, encrypted on this computer",
+    "The sign-in page shows each launch while you are signed out; Not now skips it"
   ]
 }
