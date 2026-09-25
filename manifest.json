@@ -1,9 +1,11 @@
 {
   "id": "guidance",
   "name": "Guidance",
-  "version": "2.51.0",
-  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.51.0/Guidance-Setup.exe",
+  "version": "2.51.1",
+  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.51.1/Guidance-Setup.exe",
   "notes": [
-    "Averic's own apps no longer use any of your three free slots: Ergo, Mize and Slate are always free to add"
+    "Hovering Guidance in the taskbar, or Alt Tab, shows its name and icon",
+    "Signing in from Settings no longer leaves the title bar dimmed",
+    "Averic's own apps never use any of your three free slots"
   ]
 }
