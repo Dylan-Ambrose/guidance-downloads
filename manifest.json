@@ -1,10 +1,11 @@
 {
   "id": "guidance",
   "name": "Guidance",
-  "version": "2.52.1",
-  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.52.1/Guidance-Setup.exe",
+  "version": "2.53.0",
+  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.53.0/Guidance-Setup.exe",
   "notes": [
-    "Library cards keep their buttons in line, however long a description or an update bar",
-    "On a narrow window a long tag shortens instead of pushing Launch out of the card"
+    "Right-click any box you type in for Cut, Copy, Paste and Select all",
+    "The sidebar button sits on the sidebar's edge, where its rows end",
+    "Tooltips match the right-click menu, and icons use Slate's lighter line"
   ]
 }
