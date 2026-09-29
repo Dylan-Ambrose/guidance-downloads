@@ -1,12 +1,10 @@
 {
   "id": "guidance",
   "name": "Guidance",
-  "version": "2.52.0",
-  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.52.0/Guidance-Setup.exe",
+  "version": "2.52.1",
+  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.52.1/Guidance-Setup.exe",
   "notes": [
-    "A fresh look: lighter by default, one typeface, seven accent colours",
-    "What updated now drops down from Check for updates, with Open and Dismiss",
-    "The Dashboard shows 30 days as one smooth line, plus when in the day you work",
-    "Feedback lives in the sidebar"
+    "Library cards keep their buttons in line, however long a description or an update bar",
+    "On a narrow window a long tag shortens instead of pushing Launch out of the card"
   ]
 }
