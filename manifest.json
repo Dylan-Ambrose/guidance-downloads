@@ -1,11 +1,11 @@
 {
   "id": "guidance",
   "name": "Guidance",
-  "version": "2.53.0",
-  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.53.0/Guidance-Setup.exe",
+  "version": "2.54.0",
+  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.54.0/Guidance-Setup.exe",
   "notes": [
-    "Right-click any box you type in for Cut, Copy, Paste and Select all",
-    "The sidebar button sits on the sidebar's edge, where its rows end",
-    "Tooltips match the right-click menu, and icons use Slate's lighter line"
+    "Your profile picture: the round button beside the window buttons, set in Settings, Account, for every Averic app",
+    "The Guidance mark at the top left now opens and closes the sidebar; hover it to see the panel icon",
+    "Ctrl and backslash still open and close it too"
   ]
 }
