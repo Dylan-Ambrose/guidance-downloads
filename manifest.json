@@ -1,10 +1,10 @@
 {
   "id": "guidance",
   "name": "Guidance",
-  "version": "2.56.0",
-  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.56.0/Guidance-Setup.exe",
+  "version": "2.56.1",
+  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.56.1/Guidance-Setup.exe",
   "notes": [
-    "Pro plans are on sale: pick Pro monthly, Pro yearly or Lifetime when the free limit is reached, and pay in your browser",
-    "Come back to Guidance and Pro shows by itself, or press Refresh plan in Settings, Account"
+    "See plans in Settings, Account shows Pro monthly, Pro yearly and Lifetime at any time, not only at the free limit",
+    "Already on Pro? The button stays out of the way and your plan shows instead"
   ]
 }
