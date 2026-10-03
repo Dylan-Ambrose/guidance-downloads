@@ -1,10 +1,10 @@
 {
   "id": "guidance",
   "name": "Guidance",
-  "version": "2.55.1",
-  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.55.1/Guidance-Setup.exe",
+  "version": "2.56.0",
+  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.56.0/Guidance-Setup.exe",
   "notes": [
-    "Lose your connection and Pro keeps working for seven days after Guidance last checked your plan",
-    "Today and Settings, Account show Offline: Pro until the day it ends"
+    "Pro plans are on sale: pick Pro monthly, Pro yearly or Lifetime when the free limit is reached, and pay in your browser",
+    "Come back to Guidance and Pro shows by itself, or press Refresh plan in Settings, Account"
   ]
 }
