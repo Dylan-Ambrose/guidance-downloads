@@ -1,11 +1,10 @@
 {
   "id": "guidance",
   "name": "Guidance",
-  "version": "2.54.0",
-  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.54.0/Guidance-Setup.exe",
+  "version": "2.55.0",
+  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.55.0/Guidance-Setup.exe",
   "notes": [
-    "Your profile picture: the round button beside the window buttons, set in Settings, Account, for every Averic app",
-    "The Guidance mark at the top left now opens and closes the sidebar; hover it to see the panel icon",
-    "Ctrl and backslash still open and close it too"
+    "Pro now comes from your Averic account: sign in and your plan follows you to any computer",
+    "Licence keys are gone, so the free limit offers See plans and Sign in instead of a key box"
   ]
 }
