@@ -1,10 +1,10 @@
 {
   "id": "guidance",
   "name": "Guidance",
-  "version": "2.55.0",
-  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.55.0/Guidance-Setup.exe",
+  "version": "2.55.1",
+  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.55.1/Guidance-Setup.exe",
   "notes": [
-    "Pro now comes from your Averic account: sign in and your plan follows you to any computer",
-    "Licence keys are gone, so the free limit offers See plans and Sign in instead of a key box"
+    "Lose your connection and Pro keeps working for seven days after Guidance last checked your plan",
+    "Today and Settings, Account show Offline: Pro until the day it ends"
   ]
 }
