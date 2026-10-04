@@ -1,10 +1,10 @@
 {
   "id": "guidance",
   "name": "Guidance",
-  "version": "2.58.5",
-  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.58.5/Guidance-Setup.exe",
+  "version": "2.58.6",
+  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.58.6/Guidance-Setup.exe",
   "notes": [
-    "Tab stays inside Settings, the welcome tour and the login page instead of reaching the page behind",
-    "Closing one of them puts you back on the button that opened it"
+    "With the sidebar collapsed, the update button shows a download icon (and the percent while it downloads) instead of clipped words",
+    "The Horizon accent's focus ring and selection are its own blue now"
   ]
 }
