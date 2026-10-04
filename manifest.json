@@ -1,10 +1,10 @@
 {
   "id": "guidance",
   "name": "Guidance",
-  "version": "2.56.1",
-  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.56.1/Guidance-Setup.exe",
+  "version": "2.56.2",
+  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.56.2/Guidance-Setup.exe",
   "notes": [
-    "See plans in Settings, Account shows Pro monthly, Pro yearly and Lifetime at any time, not only at the free limit",
-    "Already on Pro? The button stays out of the way and your plan shows instead"
+    "Pro monthly, Pro yearly and Lifetime are now on sale: Choose opens a secure Stripe checkout for your account",
+    "Guidance picks up your plan when you come back from paying"
   ]
 }
