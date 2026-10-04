@@ -1,11 +1,11 @@
 {
   "id": "guidance",
   "name": "Guidance",
-  "version": "2.58.2",
-  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.58.2/Guidance-Setup.exe",
+  "version": "2.58.3",
+  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.58.3/Guidance-Setup.exe",
   "notes": [
+    "Settings, Account fits the smallest window, with no sideways scrolling",
     "Your Averic sign-in no longer drops when two apps save it at the same moment",
-    "Works fully from the keyboard: Settings and the plans take focus when they open, and Escape closes the plans and the update notice",
-    "The plans fit a small window instead of running off its edge"
+    "Works fully from the keyboard: Settings and the plans take focus, and Escape closes the plans and the update notice"
   ]
 }
