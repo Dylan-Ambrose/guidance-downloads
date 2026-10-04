@@ -57,3 +57,20 @@ updates it.
 
 This hides an app from the catalogue, not from GitHub: a `-downloads` repo is
 public, so its releases can still be downloaded by anyone with the link.
+
+## Snippets
+
+A snippet (Ergo snippet, Slate Notes) is a small program of its own that works
+on its parent app's data. Its manifest names the parent and its exe:
+
+- `"parent"`: the parent app manifest's `id` (`"ergo"`, `"slate"`). Guidance
+  2.59.0 and later file an installed snippet under that app instead of showing it
+  as a library card of its own, never count it against the free limit, never give
+  it a Download card of its own, and keep it updated with Update all and Keep apps
+  updated. Installing a snippet whose parent is missing installs the parent first.
+- `"exe"`: the snippet's exe name (`"ErgoSnippet.exe"`), when it is not
+  `<name>.exe`.
+
+A snippet installs to the folder its `install_check_path` names, because it finds
+its parent's data only when it runs from there. Keep `"listed": false` on a
+snippet so Guidance before 2.59.0, which knows neither field, shows no card.

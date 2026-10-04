@@ -1,10 +1,11 @@
 {
   "id": "guidance",
   "name": "Guidance",
-  "version": "2.58.6",
-  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.58.6/Guidance-Setup.exe",
+  "version": "2.59.0",
+  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.59.0/Guidance-Setup.exe",
   "notes": [
-    "With the sidebar collapsed, the update button shows a download icon (and the percent while it downloads) instead of clipped words",
-    "The Horizon accent's focus ring and selection are its own blue now"
+    "The Ergo snippet is no longer a library app of its own: it is filed under Ergo and kept up to date",
+    "Searching for Apps opens your library instead of a blank page",
+    "Guidance asks GitHub for the app list once when it opens, instead of three times"
   ]
 }
