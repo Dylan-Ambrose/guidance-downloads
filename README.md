@@ -65,11 +65,15 @@ on its parent app's data. Its manifest names the parent and its exe:
 
 - `"parent"`: the parent app manifest's `id` (`"ergo"`, `"slate"`). Guidance
   2.59.0 and later file an installed snippet under that app instead of showing it
-  as a library card of its own, never count it against the free limit, never give
+  as a library card of its own, never give
   it a Download card of its own, and keep it updated with Update all and Keep apps
   updated. Installing a snippet whose parent is missing installs the parent first.
+  Since 2.61.0 the snippet shows as a sub-card in its parent's card (library or
+  Download card), offered only where the parent is offered.
 - `"exe"`: the snippet's exe name (`"ErgoSnippet.exe"`), when it is not
   `<name>.exe`.
+- `"pro": true`: the snippet is part of Pro. Guidance 2.61.0 and later show a Pro
+  badge on its sub-card, to everyone, Free included.
 
 A snippet installs to the folder its `install_check_path` names, because it finds
 its parent's data only when it runs from there. Keep `"listed": false` on a
