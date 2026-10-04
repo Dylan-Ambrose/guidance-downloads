@@ -39,3 +39,21 @@ installer actually installs it, Guidance checks it directly rather than
 querying the Windows registry. A manifest with no `download_url` is read
 but never offered as a Download card (this is how Blindspot's retired
 web-only listing stays out of the catalogue without deleting its repo).
+
+## Who an app is offered to
+
+Two optional fields decide whether an app gets a Download card. Neither one ever
+removes an installed copy: Guidance still finds it, keeps it in the library and
+updates it.
+
+- `"audience"`: who the Download card is for. `"public"` (the default when the
+  field is left out) is everyone. `"dev"` is only an account whose plan in
+  Guidance is dev; signed out, Free and Pro never see it. Any other value hides
+  the app from everyone, so a typo fails closed. Read by Guidance 2.57.0 and
+  later.
+- `"listed": false`: the older switch, hiding the card from everyone. Guidance
+  before 2.57.0 knows only this one, so a dev-only app should carry both
+  `"audience": "dev"` and `"listed": false` until every install has updated.
+
+This hides an app from the catalogue, not from GitHub: a `-downloads` repo is
+public, so its releases can still be downloaded by anyone with the link.

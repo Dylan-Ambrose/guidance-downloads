@@ -1,10 +1,10 @@
 {
   "id": "guidance",
   "name": "Guidance",
-  "version": "2.56.2",
-  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.56.2/Guidance-Setup.exe",
+  "version": "2.57.0",
+  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.57.0/Guidance-Setup.exe",
   "notes": [
-    "Pro monthly, Pro yearly and Lifetime are now on sale: Choose opens a secure Stripe checkout for your account",
-    "Guidance picks up your plan when you come back from paying"
+    "Free holds every Averic app plus three of anyone else's; Pro holds as many as you like",
+    "Apps meant only for developer accounts no longer show a Download card to anyone else"
   ]
 }
