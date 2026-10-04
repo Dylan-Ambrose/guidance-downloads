@@ -1,10 +1,11 @@
 {
   "id": "guidance",
   "name": "Guidance",
-  "version": "2.57.0",
-  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.57.0/Guidance-Setup.exe",
+  "version": "2.58.0",
+  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.58.0/Guidance-Setup.exe",
   "notes": [
-    "Free holds every Averic app plus three of anyone else's; Pro holds as many as you like",
-    "Apps meant only for developer accounts no longer show a Download card to anyone else"
+    "A long tag no longer gets cut off: the card grows to fit it",
+    "Slate shows its new icon, and signing up tells you which inbox to check, with a button to send the email again",
+    "Three accents: Discovery, Averic and Horizon"
   ]
 }
