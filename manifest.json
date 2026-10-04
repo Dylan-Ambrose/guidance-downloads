@@ -1,11 +1,10 @@
 {
   "id": "guidance",
   "name": "Guidance",
-  "version": "2.59.0",
-  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.59.0/Guidance-Setup.exe",
+  "version": "2.60.0",
+  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.60.0/Guidance-Setup.exe",
   "notes": [
-    "The Ergo snippet is no longer a library app of its own: it is filed under Ergo and kept up to date",
-    "Searching for Apps opens your library instead of a blank page",
-    "Guidance asks GitHub for the app list once when it opens, instead of three times"
+    "Guidance is free, with no limit on your apps: the free slots count is gone",
+    "See plans in Settings, Account now says plainly that Pro is for the other Averic desktop apps"
   ]
 }
