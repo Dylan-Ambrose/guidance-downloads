@@ -1,11 +1,9 @@
 {
   "id": "guidance",
   "name": "Guidance",
-  "version": "2.61.0",
-  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.61.0/Guidance-Setup.exe",
+  "version": "2.61.1",
+  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.61.1/Guidance-Setup.exe",
   "notes": [
-    "Each app's snippet now sits inside its card: Install, Launch or Update it right there",
-    "Install both: a snippet whose app you do not have yet installs the app first, then the snippet",
-    "Snippet updates count in Update all, and an app with no snippet says so quietly"
+    "Signing in keeps the plan already read for you, so the other apps never see it as unknown"
   ]
 }
