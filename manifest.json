@@ -1,9 +1,10 @@
 {
   "id": "guidance",
   "name": "Guidance",
-  "version": "2.61.1",
-  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.61.1/Guidance-Setup.exe",
+  "version": "2.61.2",
+  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.61.2/Guidance-Setup.exe",
   "notes": [
-    "Signing in keeps the plan already read for you, so the other apps never see it as unknown"
+    "Groundwork for the Mac version of Guidance",
+    "A little more space between posts on the feedback board"
   ]
 }
