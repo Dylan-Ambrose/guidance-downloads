@@ -1,10 +1,10 @@
 {
   "id": "guidance",
   "name": "Guidance",
-  "version": "2.61.2",
-  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.61.2/Guidance-Setup.exe",
+  "version": "2.62.0",
+  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.62.0/Guidance-Setup.exe",
   "notes": [
-    "Groundwork for the Mac version of Guidance",
-    "A little more space between posts on the feedback board"
+    "Report a feedback post that breaks the rules: press Report under it and pick what is wrong",
+    "The board's rules are linked at the top of the feedback page"
   ]
 }
