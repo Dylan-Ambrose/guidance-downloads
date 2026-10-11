@@ -1,10 +1,10 @@
 {
   "id": "guidance",
   "name": "Guidance",
-  "version": "2.63.0",
-  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.63.0/Guidance-Setup.exe",
+  "version": "2.64.0",
+  "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.64.0/Guidance-Setup.exe",
   "notes": [
-    "Apps with snippets sit first in your library, so their taller cards share a row",
-    "An installed snippet has its own Desktop shortcut and Remove buttons"
+    "Block someone on the feedback board: Block sits beside Report under anyone else's post",
+    "The people you blocked are listed at the bottom of the board, each with Unblock"
   ]
 }
