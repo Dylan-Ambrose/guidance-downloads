@@ -8,8 +8,8 @@
     "The people you blocked are listed at the bottom of the board, each with Unblock"
   ],
   "mac": {
-    "version": "2.64.0",
-    "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.64.0/Guidance.dmg",
+    "version": "2.64.1",
+    "download_url": "https://github.com/Dylan-Ambrose/guidance-downloads/releases/download/v2.64.1/Guidance.dmg",
     "install_check_path": "/Applications/Guidance.app"
   }
 }
